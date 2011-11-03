@@ -18,3 +18,6 @@ set smartcase
 
 set number
 set ruler
+
+map <S-Enter> O<Esc>
+map <CR> o<Esc>
